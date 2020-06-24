@@ -9,9 +9,9 @@
 
 ## Summary of Findings
 
-> In doing exploration, I used the suicide rate as my main variable. I found a strong relationship between age and suicide rates. The older the age, the higher the suicide rate. Also, It was noticed that the global suicide rate reached its peak in 1995. Further, males have a high rate of suicide comparing to females especially after 1995. 
+> In doing exploration, I used the suicide rate as my main variable. I found a strong relationship between age and suicide rate. The older the age, the higher the suicide rate. Also, It was noticed that the global suicide rate reached its peak in 1995. Further, males have a high rate of suicide comparing to females especially after 1995. 
 
-Considering countries, Russia has the largest number of suicides globally followed by Lithuania, Hungary, Kazakhstan and Korea. 
+Considering countries, Lithuania has the largest number of suicides globally followed by Sri lanka, Russia, Hungary, and Belarus. 
 
 
 ## Key Insights for Presentation
